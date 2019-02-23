@@ -1,2 +1,2 @@
 # Lescone
-Projeto de Estudo Sass
+Projeto de Estudo Sass/Gulp/NPM
